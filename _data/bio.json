@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Chan Jeong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://chan-jeong98.github.io/images/githubProfile.jpg",
+    "email": "chanung@hawaii.edu",
+    "phone": "808-462-9121",
+    "website": "https://chan-jeong98.github.io",
+    "summary": "I am studying for a B.S. in Biology in the College of Natural Sciences at the University of Hawaii. I am currently working towards a minor in Computer Science. I expect to graduate in the Fall of 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "855 Makahiki Way #405",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "chan-jeong98",
+        "url": "http://github.com/chan-jeong98"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "chanung",
+        "url": "https://www.linkedin.com/in/chan-ung-jeong-0a7bb6161/"
       }
     ]
   },
