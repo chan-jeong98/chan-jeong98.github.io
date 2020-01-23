@@ -10,6 +10,7 @@ labels:
   - Java (EZ)
 summary: My partner and I developed a simple ping pong game for our final project in ICS 111.
 ---
+<img class="ui medium right floated rounded image" src="../images/pingPongGame.png">
 
 This ping pong game was created as a final project of ICS 111. Two people were involved in the making of this program. I was in charge of programming the interactions between the computer and the players. Although the class provided EZ.java file was used to implement action listeners, it was necessary for students to correctly implement them to ensure that the controls did the right things. In addition, I was also responsible for making images suitable for the game. My partner was mainly involved in generating the loops required for the win condition of each player (which in this case happened to be the same). Both of us actively worked together to revise each other's code to ensure that the program ran smoothly.
 
