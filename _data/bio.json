@@ -76,70 +76,67 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "KuruKuru Sushi",
+      "position": "Employee",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Kitchen Staff",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Make food and serve to customers",
+        "Train new employees",
+        "Close the restaurant when manager is not present"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Manoa",
+      "position": "iGEM Research Assistant",
+      "website": "",
+      "startDate": "2018-03-01",
+      "endDate": "2018-07-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Grew and transformed bacteria cultures",
+        "Prepared and sent samples in for sequencing",
+        "Used basic HTML to assist in creating iGEM team website"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "UH E-sports",
+      "website": "",
+      "position": "Player",
+      "startDate": "2019-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Played on UHM Green for League of Legends",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Joined and stayed active in the UHM E-sports discord",
+        "Competed in Collegiate Starleague tournament",
+        "Enlisted in the Mountainwest Conference roster"
       ]
     },
     {
-      "organization": "",
+      "organization": "ACM Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Member",
+      "startDate": "2019-01-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member of ACM Manoa",
+        "Joined club discord and remained active member",
+        "Participate in workshops and info sessions"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Merit Scholarship",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen who displayed a level of excellence in high school. Application process included a GPA of 3.5 or higher, and an essay portion judged by admission officers"
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
