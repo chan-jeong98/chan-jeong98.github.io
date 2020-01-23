@@ -6,7 +6,7 @@
     "email": "chanung@hawaii.edu",
     "phone": "808-462-9121",
     "website": "https://chan-jeong98.github.io",
-    "summary": "I am studying for a B.S. in Biology in the College of Natural Sciences at the University of Hawaii. I am currently working towards a minor in Computer Science. I expect to graduate in the Fall of 2020.",
+    "summary": "I am studying for a B.S. in Biology in the College of Natural Sciences at the University of Hawaii at Manoa. I am currently working towards a minor in Computer Science. I expect to graduate in the Fall of 2020.",
     "location": {
       "address": "855 Makahiki Way #405",
       "postalCode": "96826",
@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "name": "Software Development",
+      "keywords": [        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Games",
       "keywords": [
       ]
     }
@@ -52,33 +50,26 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Biology (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-30",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.6",
       "courses": [
       ]
     }
