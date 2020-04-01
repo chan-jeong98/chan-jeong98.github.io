@@ -18,7 +18,7 @@ an early 8 am class the next day. Tinder/Bumble can be misleading and is a bit t
 
 The solution: Game Time is an application for university students (UHM specifically) that let students find other people to play games with that share the same interests and hobbies.
 
-##Approach
+## Approach
 To use Game Time, users will need a registered account. They will need to update their profile page to best help them find the people they want to connect with.
 The profile page should contain information that is relevant, such as what genre of games you usually play, specific games that you play, and a discord ID (if applicable).
 Details can be further discussed in the integrated messeging function. 
@@ -39,14 +39,14 @@ Some mock up pages might include:
 -Search interests page
 -Other peoples' profile page
 
-##Use case ideas
+## Use case ideas
 
 -User goes to the home page, creates an account, logs in, and completes their user profile with as much information as possible
 -User searches up other users and contacts them if interested in playing a game or two together
 -Other users can find the user and do the exact same thing
 -Communities can be created where users can join and see a lot more other people who might be interested in the same thing they are.
 
-##Beyond the basics
+## Beyond the basics
 
 -Allow users to give other users a rating (satisfactory to play with, undesirable, etc).
 -Decrease the chance of showing up in searches/limit ability to join communities if bad rating
